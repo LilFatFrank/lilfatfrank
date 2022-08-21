@@ -11,7 +11,7 @@ A little about me:
 - 🔭 I’m currently working on building a DeFi protocol.
 - 🌱 I’m currently learning solidity to become a full stack web3 engineer.
 - 👯 I’m looking to collaborate on web3 projects.
-- 🧐 Curious about the world and it's ways.
+- 🧐 Curious about the world and its ways.
 - 📫 How to reach me: karan.parsnani@ymail.com
 - 😄 Hobbies: Working out, Playing football (soccer) and music (amateur guitarist 🎸)
 - ⚡ Fun fact: Spider webs were used as bandages in ancient times.
